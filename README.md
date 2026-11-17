@@ -5,9 +5,9 @@ with its accounting.
 
 One of the p2p series.
 
-| | |
-|---|---|
-| [test/](test/) | its tests, what each checks |
+## Links
+
+- [test](test/)
 
 ## Usage
 
