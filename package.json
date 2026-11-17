@@ -5,10 +5,12 @@
   "type": "module",
   "exports": "./index.js",
   "scripts": {
-    "test": "bare ../../node_modules/brittle/cmd.js test/*.test.js"
+    "test": "brittle-bare test/*.test.js"
   },
   "license": "MIT",
   "devDependencies": {
+    "bare-runtime": "1.36.0",
+    "brittle": "4.5.0",
     "p2p-store": "*"
   }
 }

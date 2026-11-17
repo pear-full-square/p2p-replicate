@@ -31,4 +31,4 @@ rep.metrics()
 `held` (resource, sizes, blocks fetched, ms). Metrics: per resource, core
 (db, blobs) and peer: blocks and bytes uploaded and downloaded.
 
-`npm test`: 1 test.
+`brittle-bare test/*.test.js`: 1 test.
