@@ -31,4 +31,4 @@ rep.metrics()
 `held` (resource, sizes, blocks fetched, ms). Metrics: per resource, core
 (db, blobs) and peer: blocks and bytes uploaded and downloaded.
 
-`brittle-bare test/*.test.js`: 1 test.
+`brittle-bare test/*.test.js` (Bare installed): over a direct stream, read lazily, counted per peer, then held whole; each test by its name in [test/](test/).
